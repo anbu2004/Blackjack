@@ -1,5 +1,5 @@
 # Author: Anbuselven Ragunathan
-# Date: March 15, 2022
+# Date: November 16, 2021
 # Description: A simulation of a Blackjack game. The player can start with a bet ranging from
 #              $2000 to $10000.
 
